@@ -1,3 +1,3 @@
 # simplecoding
-simple data structure implementations in c++
+simple programs and data structure implementations in C/C++
 
